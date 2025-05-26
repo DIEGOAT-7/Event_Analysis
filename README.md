@@ -1,6 +1,8 @@
 # Event_Analysis
 El análisis basado en eventos proporciona un conjunto de herramientas para la recopilación y el análisis de datos que permiten estudiar al detalle cómo se comportan los usuarios de servicios, aplicaciones y juegos.
 
+**Los gráficos están hechos con plotly-express, por ende no se ven en el repositorio, pero puedes verlos en la publicación de LinkedIn:**
+
 # **Descripción del Proyecto**
 
 Trabajas en una empresa emergente que vende productos alimenticios. Debes investigar el comportamiento del usuario para la aplicación de la empresa.
