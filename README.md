@@ -1,7 +1,28 @@
-# Event_Analysis
-El análisis basado en eventos proporciona un conjunto de herramientas para la recopilación y el análisis de datos que permiten estudiar al detalle cómo se comportan los usuarios de servicios, aplicaciones y juegos.
+# Proyecto: Análisis Basado en Eventos + A/A/B Test
+
+Este notebook presenta un análisis de comportamiento de usuario basado en eventos registrados dentro de una aplicación. Se analizaron tres variantes de una prueba (A/A/B) para detectar posibles diferencias en el flujo de usuarios.
+
+**Aspectos clave:**
+
+- Limpieza y validación de los datos.
+
+- Identificación del grupo A/B de cada usuario.
+
+- Análisis de retención y distribución de eventos.
+
+- Construcción de un embudo de conversión para evaluar pérdidas en cada etapa.
+
+- Comparación de los grupos usando pruebas estadísticas.
+
+**Este tipo de análisis es fundamental para entender cómo interactúan los usuarios con un producto digital, optimizar la experiencia y validar cambios de diseño o funcionalidad.**
+
+Tecnologías usadas:
+
+Python, Pandas, Plotly, Matplotlib
 
 **Los gráficos están hechos con plotly-express, por ende no se ven en el repositorio, pero puedes verlos en la publicación de LinkedIn:**
+
+---
 
 # **Descripción del Proyecto**
 
