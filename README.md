@@ -20,7 +20,7 @@ Tecnologías usadas:
 
 Python, Pandas, Plotly, Matplotlib
 
-**Los gráficos están hechos con plotly-express, por ende no se ven en el repositorio, pero puedes verlos en la publicación de LinkedIn:**
+**Los gráficos están hechos con plotly-express, por ende no se ven en el repositorio, pero puedes verlos en la publicación de LinkedIn:** [https://www.linkedin.com/feed/update/urn:li:activity:7333626625235841024/]
 
 ---
 
